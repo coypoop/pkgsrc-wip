@@ -1,0 +1,1 @@
+Respect CFLAGS so I can pass -DPTHREAD_MAX_PRIORITY=63
