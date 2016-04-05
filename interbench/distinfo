@@ -4,5 +4,4 @@ SHA1 (interbench-0.31.tar.bz2) = 2f1c203480df7c044ccc100c783810eef83e15c2
 RMD160 (interbench-0.31.tar.bz2) = b42dfaedbe8f6c3d8f76fa6dd76151d3ddcbae92
 SHA512 (interbench-0.31.tar.bz2) = cc001a92eebb6023e0c610a0140359d5a8279757b8f3a1586e399a7bd3d3c6f9fca700287e91d28a5271423e1ee7ab5012fd95fae908d04e072df09ff2129355
 Size (interbench-0.31.tar.bz2) = 86776 bytes
-SHA1 (patch-Makefile) = 01d927043a43148f3932b1fb5f356f1c75cf5b77
-SHA1 (patch-interbench.c) = e09aaaddc385c10dcf770d7f89228c705d9aa454
+SHA1 (patch-interbench.c) = 2b5c487f269f1ce9327c393c703993101e902fa2
